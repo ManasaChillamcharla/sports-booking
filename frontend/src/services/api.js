@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://sports-booking-bb7d.onrender.com/api',
+  baseURL: 'https://sports-booking-g2bu.onrender.com/api',
   headers: {
     'Content-Type': 'application/json',
   },
